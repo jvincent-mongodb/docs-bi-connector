@@ -56,6 +56,7 @@ option or set it to the newly updated major release series.
    contains ``float64`` values (which map to the ``double`` type in
    MongoDB), you must update your DRDL file after you begin using the
    new ``decimal`` type.
+   
 
 Does the |bi-short| store any data?
 -----------------------------------
